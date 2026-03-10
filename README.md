@@ -1,2 +1,1 @@
-# Locatr
-A Location Guessing Game
+A Geography Trivia Game

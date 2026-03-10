@@ -1,0 +1,14 @@
+# Python
+server/venv/
+server/__pycache__/
+*.pyc
+*.pyo
+
+# Node
+client/node_modules/
+client/dist/
+
+# Environment variables
+.env
+
+.idea/
